@@ -1,11 +1,11 @@
-# 🧮 Lab01 – Wprowadzenie do .NET i prosty kalkulator CLI
+# Lab01 – Wprowadzenie do .NET i prosty kalkulator CLI
 
 Ten projekt to wprowadzenie do środowiska **.NET 8/9**.  
 Zawiera prostą aplikację konsolową typu **CLI (Command-Line Interface)** napisaną w C#, która realizuje podstawowe działania matematyczne oraz prezentuje obsługę błędnych danych wejściowych bez crasha.
 
 ---
 
-## 🎯 Cele laboratorium
+## Cele laboratorium
 
 - Instalacja i konfiguracja środowiska **.NET SDK**
 - Tworzenie i uruchamianie aplikacji konsolowej (`dotnet new console`)
@@ -16,7 +16,7 @@ Zawiera prostą aplikację konsolową typu **CLI (Command-Line Interface)** napi
 
 ---
 
-## Uruchamianie programu
+## Uruchamianie programu oraz przykładowe dane wejściowe
 
 dotnet run --project src/src.csproj -- calc add 5 3
 
