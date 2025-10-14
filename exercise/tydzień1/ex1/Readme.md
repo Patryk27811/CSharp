@@ -15,3 +15,5 @@ Celem programu jest:
 - bezpieczna obsługa pustych lub błędnych danych (np. `null`, spacje, brak wpisu).
 
 ---
+
+Według mnie to zadanie było łatwe

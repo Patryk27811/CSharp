@@ -21,3 +21,7 @@ Program:
 1. Otwórz terminal w katalogu projektu.
 2. Uruchom komendę:
    dotnet run --project src/src.csproj
+
+## Ocena zadania
+
+Według mnie to zadanie było średnio trudne
