@@ -24,4 +24,4 @@ Zawiera funkcję `IsPrime(int n)` oraz testy jednostkowe XUnit.
 
 ## Ocena zadania
 
-Według mnie zadanie było średnio trudne
+Według mnie zadanie było trudne
